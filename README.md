@@ -58,8 +58,15 @@ All charts are saved in the `charts/` folder.
 ┃ ┣ satisfaction_by_device.png
 ┃ ┣ avg_purchase_by_gender.png
 ┣ 📄 data/
+<<<<<<< HEAD
 ┃ ┗ cleaned_ecommerce_data.csv
 ┣ 📄 notebooks/
 ┃ ┗ customer_analysis.ipynb
 ┣ 📄 README.md
 
+=======
+┃ ┗ cleaned_customer_data.csv
+┣ 📄 notebooks/
+┃ ┗ analysis.ipynb
+┣ 📄 README.md
+>>>>>>> 56ea243ce6d9a672cd0b37257d4dc3e58eb704fd
