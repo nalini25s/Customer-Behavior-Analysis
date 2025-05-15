@@ -1,4 +1,4 @@
-# 🛒 Customer Behavior Analysis – Mini Project
+# Customer Behavior Analysis – Mini Project
 
 This project explores customer behavior using a dataset from an e-commerce platform. It focuses on understanding patterns in purchasing, satisfaction, device usage, and more. The analysis is done using **Excel**, **SQL (SSMS)** and **Python (pandas, seaborn, matplotlib)**.
 
